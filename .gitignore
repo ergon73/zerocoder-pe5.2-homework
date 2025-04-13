@@ -1,0 +1,7 @@
+# Не трекаем временные и вспомогательные файлы
+.ipynb_checkpoints
+.csv
+.xlsx
+__pycache__
+.pyc
+.DS_Store
